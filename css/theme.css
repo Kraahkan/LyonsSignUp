@@ -4584,6 +4584,7 @@ video {
 }
 .filters li:last-child {
   margin-right: 0;
+ padding-left: 0;
 }
 .filters.floating {
   position: absolute;
